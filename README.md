@@ -17,13 +17,13 @@ Student1559442 TRAN ANH GIA BAO
 
 ============================
 
-eProject documentation at https://github.com/huongvu03/kitchen_appliances/tree/main/document
+eProject documentation at [https://github.com/huongvu03/kitchen_appliances/tree/main/document](https://github.com/milonguyen0502/BidSpiriteProject/tree/main/document)
 
 ============================
 
 ============================
 
-eProject video at https://drive.google.com/drive/u/0/folders/1f556wAOypzEUs2lTZmLBBd0xUKUjPQnj
+eProject video at [https://drive.google.com/drive/u/0/folders/1f556wAOypzEUs2lTZmLBBd0xUKUjPQnj](https://drive.google.com/drive/u/0/folders/1f556wAOypzEUs2lTZmLBBd0xUKUjPQnj)
 
 ============================
 
